@@ -21,3 +21,14 @@
 |E-15|  문자를 읽을 수 있는 딥러닝 | CV(OCR)| unsplash | 
 |E-16|  다음에 볼 영화 예측하기 | Recommendation System (SBR) | Movielens |
 |E-17|  난 스케치를 할 테니 너는 채색을 하거라  |  GAN (Pix2Pix) | cityscapes dataset(image segmented) | 
+
+
+## GOINGDEEPER-CV
+|#|제목|category| Dataset |
+|---|---|---|---|
+|GD-02| 없다면 어떻게 될까? (ResNet Ablation Study) | CNN (VGG, ResNet) | CIFAR-10 |
+|GD-04| 이미지 어디까지 우려볼까? | Augmentation  | stanford_dogs |
+|GD-06| 나를 찾아줘 - Class Activation Map 만들기 | CAM, Grad-CAM | stanford_dogs |
+|GD-08| Object Detection 시스템 만들기 | Object Detection(RetinaNet) | KITTI |
+|GD-10| 세그멘테이션 모델 만들기 | Segmentation(U-Net, U-Net++) | KITTI |
+
